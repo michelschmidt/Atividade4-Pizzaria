@@ -1,0 +1,18 @@
+{
+    "clientName": "Thunder Client",
+    "environmentName": "Atividade 4 - Pizzaria",
+    "environmentId": "07989458-2e91-40cc-bc4a-5023a27a902d",
+    "dateExported": "2024-07-31T00:00:47.064Z",
+    "version": "1.2",
+    "variables": [
+        {
+            "name": "baseURL",
+            "value": "http://localhost:3000"
+        },
+        {
+            "name": "token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY2YTk3Y2JkNzdlYjliMWY5MTU3MDVlOCIsImlhdCI6MTcyMjM4MzY3NywiZXhwIjoxNzIyNDcwMDc3fQ.xSjzg6qGVwHPVjtAr7i607FIYiCu35FiqG3cG5bZo9E"
+        }
+    ],
+    "ref": "Opuo3hm_6j8IHVAL3PbFu0d2StwekGWb7O_HqRNxEXdLc1pYKfWWyGEUzFbeaNfF"
+}
