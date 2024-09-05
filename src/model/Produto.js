@@ -15,6 +15,7 @@ const ProdutoSchema = new mongoose.Schema({
         },
     ],
     createdAt: { type: Date, default: Date.now() },
+    codigoBarras: { type: Number, required: true },
 });
 
 

@@ -24,15 +24,15 @@ app.use(express.json());
 
 // Habilita o cors e seta uma lista de 'origens'
 app.use(cors(
-    {
+    /*{
         // Endereços que poderão acessar a API
         origin: [
             "localhost:3001",
             "localhost:3002"
         ],
         // Requisições permitidas
-        methods: ["GET", "POST", "PUT", "PATCH", "DELETE"]
-    }
+        //methods: ["GET", "POST", "PUT", "PATCH", "DELETE"]
+    }*/
 ));
 
 
